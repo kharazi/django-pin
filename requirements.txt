@@ -4,3 +4,15 @@ django-user-profile
 django-compressor
 sorl-thumbnail
 registration
+turbojson 
+peak 
+flask 
+tgmochikit
+turbogears
+PasteScript
+Paste>=1.3
+TGScheduler>=1.6.2
+python-dateutil>=1.5
+Markdown>=2.0.1
+django_compressor
+
